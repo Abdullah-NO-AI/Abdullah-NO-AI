@@ -31,7 +31,7 @@ qp         t\io,_           `~"TOOggQV""""        _,dg,_ =PIQHib.
                                                       `~\  |
 
 ```
-## MY Skill Graph
+## My Skill Graph
 *Click the graph below to drag nodes, zoom, and explore how my skills connect:*
 
 [![Skill Graph](https://raw.githubusercontent.com/Abdullah-NO-AI/skills/main/preview.png)](https://Abdullah-NO-AI.github.io/skills/)
