@@ -1,9 +1,9 @@
 ```text
 
                   ;,_            ,
-                 _uP~"b          d"u,                                  I am a recent B.Tech graduate in Data Analytics
-                dP'   "b       ,d"  "o                                 with hands-on internship experience and skills
-               d"    , `b     d"'    "b                                in Power BI, SQL, Excel, and Python.
+                 _uP~"b          d"u,                     I am a recent B.Tech graduate in Data Analytics
+                dP'   "b       ,d"  "o                      with hands-on internship experience and skills
+               d"    , `b     d"'    "b                     in Power BI, SQL, Excel, and Python.
               l] [    " `l,  d"       lb
               Ol ?     "  "b`"=uoqo,_  "l
             ,dBb "b        "b,    `"~~TObup,_
