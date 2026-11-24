@@ -31,3 +31,41 @@ qp         t\io,_           `~"TOOggQV""""        _,dg,_ =PIQHib.
                                                       `~\  |
 
 ```
+```mermaid
+graph LR
+    %% Main Hub
+    Me((Data Analytics))
+
+    %% Core Skills
+    Me --> PBI[Power BI]
+    Me --> PY[Python]
+    Me --> SQL[SQL]
+
+    %% Power BI Branch
+    PBI --> DAX[DAX]
+    PBI --> PQ[Power Query / M]
+    PBI --> RLS[Row-Level Security]
+
+    %% DAX Concepts
+    DAX --> Calc[CALCULATE & Filter Context]
+    DAX --> Time[Time Intelligence]
+    DAX --> Iter[Iterators: SUMX / AVERAGEX]
+
+    %% Python Branch
+    PY --> Pandas[Pandas & EDA]
+    PY --> Streamlit[Streamlit]
+
+    %% SQL Branch
+    SQL --> Opt[Query Optimization]
+    SQL --> Schema[Schema Design]
+
+    %% Make nodes clickable (optional - links to your repos or certs)
+    click PBI "[https://github.com/Abdullah-NO-AI?tab=repositories&q=powerbi](https://github.com/Abdullah-NO-AI?tab=repositories&q=powerbi)" "View Power BI Projects"
+    click DAX "[https://github.com/Abdullah-NO-AI/your-dax-repo](https://github.com/Abdullah-NO-AI/your-dax-repo)" "View DAX Examples"
+    click PY "[https://github.com/Abdullah-NO-AI?tab=repositories&q=python](https://github.com/Abdullah-NO-AI?tab=repositories&q=python)" "View Python Projects"
+
+    %% Styling
+    style Me fill:#2563eb,stroke:#1d4ed8,color:#fff
+    style PBI fill:#f59e0b,stroke:#d97706,color:#000
+    style DAX fill:#fef3c7,stroke:#f59e0b,color:#000
+```
